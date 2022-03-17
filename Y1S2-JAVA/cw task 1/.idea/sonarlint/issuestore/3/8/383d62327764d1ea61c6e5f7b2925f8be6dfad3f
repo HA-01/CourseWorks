@@ -1,0 +1,81 @@
+
+P	java:S125"<This block of commented-out lines of code should be removed.(ë§”T
+n
+java:S3008	"XRename this field "AddedVaccines" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÄ§ó
+V	java:S125"<This block of commented-out lines of code should be removed.(ÜÎµ©ûÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(»§¹™
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÕØ‰—ùÿÿÿÿ
+M
+java:S6126"2Replace this String concatenation with Text block.(ÕØ‰—ùÿÿÿÿ
+Y
+java:S6208)"CMerge the previous cases into this one using comma-separated label.(ùì·ó
+^
+java:S6208-"CMerge the previous cases into this one using comma-separated label.(øœüúÿÿÿÿ
+^
+java:S62082"CMerge the previous cases into this one using comma-separated label.(Ç ¥·úÿÿÿÿ
+^
+java:S6208="CMerge the previous cases into this one using comma-separated label.(ßå‹Ÿşÿÿÿÿ
+Y
+java:S6208A"CMerge the previous cases into this one using comma-separated label.(í¹¹Œ
+^
+java:S6208F"CMerge the previous cases into this one using comma-separated label.(¶öé¿ÿÿÿÿÿ
+^
+java:S6208J"CMerge the previous cases into this one using comma-separated label.(İõ ìşÿÿÿÿ
+Y
+java:S6208N"CMerge the previous cases into this one using comma-separated label.(õ³ë
+Y
+java:S6208R"CMerge the previous cases into this one using comma-separated label.(©ØíÚ
+Y
+java:S6208V"CMerge the previous cases into this one using comma-separated label.(„‰ó÷
+<	java:S131'""Add a default case to this switch.(­Ö¹§úÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ÏÆÉÓ
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(„ø®ıÿÿÿÿ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(½üÓ‹
+O
+java:S1197ƒ"8Move the array designator from the variable to the type.(¤Ùû‡
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(ú““•ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(üÕÛy
+T	java:S106”"9Replace this use of System.out or System.err by a logger.(ğÛáøøÿÿÿÿ
+i	java:S100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ©Ñİúÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(Ø´éÿÿÿÿÿ
+O	java:S106£"9Replace this use of System.out or System.err by a logger.(¤ßÔ¦
+T	java:S106¥"9Replace this use of System.out or System.err by a logger.(Â¹Ö¡ûÿÿÿÿ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(®‡ƒ±
+d	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‡ô½
+O	java:S106±"9Replace this use of System.out or System.err by a logger.(¤ßÔ¦
+i	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù©•ûÿÿÿÿ
+X
+java:S1854º"ARemove this useless assignment to local variable "namesInBooths".(Ûìƒ
+N	java:S106¼"9Replace this use of System.out or System.err by a logger.(¨È†E
+N	java:S106¿"9Replace this use of System.out or System.err by a logger.(¬•ğe
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ
+T	java:S106Ä"9Replace this use of System.out or System.err by a logger.(¦½Èçıÿÿÿÿ
+R	java:S125Æ"<This block of commented-out lines of code should be removed.(ªŞœš
+N	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(ÚÒ
+i	java:S100Æ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÙûóıÿÿÿÿ
+R	java:S125Õ"<This block of commented-out lines of code should be removed.(–ıŸÒ
+W	java:S125ù"<This block of commented-out lines of code should be removed.(òä€»üÿÿÿÿ
+W	java:S125È"<This block of commented-out lines of code should be removed.(òä€»üÿÿÿÿ
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(­‚Äßşÿÿÿÿ
+O	java:S106Ğ"9Replace this use of System.out or System.err by a logger.(Ëşš‚
+d	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄöñÒ
+W	java:S125Ö"<This block of commented-out lines of code should be removed.(¯¥±âşÿÿÿÿ
+d	java:S100Ş"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éš™ò
+W	java:S125Û"<This block of commented-out lines of code should be removed.(·ÇĞ…ÿÿÿÿÿ
+W	java:S125à"<This block of commented-out lines of code should be removed.(şÓ¢¦ıÿÿÿÿ
+W	java:S125â"<This block of commented-out lines of code should be removed.(¢ÑïÁÿÿÿÿÿ
+W	java:S125é"<This block of commented-out lines of code should be removed.(ª‘¾¼şÿÿÿÿ
+R	java:S125ğ"<This block of commented-out lines of code should be removed.(Ø†·—
+T	java:S106ò"9Replace this use of System.out or System.err by a logger.(ù¸—ãşÿÿÿÿ
+O	java:S106ô"9Replace this use of System.out or System.err by a logger.(„ñ´³
+d	java:S100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áØÉ
+O	java:S106ú"9Replace this use of System.out or System.err by a logger.(Á”ö¥
+O	java:S106ı"9Replace this use of System.out or System.err by a logger.(¯²¥ù
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(ğ’ßµøÿÿÿÿ
+I
+java:S1481º"2Remove this unused "namesInBooths" local variable.(Ûìƒ
+F
+java:S1144ƒ"/Remove this unused private "initialise" method.(¤Ùû‡
+e
+java:S1192£"NDefine a constant instead of duplicating this literal "Booth number " 3 times.(¤ßÔ¦
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æ»¯ç

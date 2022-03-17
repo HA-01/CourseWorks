@@ -1,0 +1,98 @@
+
+n
+java:S3008	"XRename this field "AddedVaccines" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÄ§ó
+r
+java:S1450"WRemove the "boothNum" field and declare it as a local variable in the relevant methods.(•€€Ëúÿÿÿÿ
+W
+java:S1854J"<Remove this useless assignment to local variable "finished".(Ó¹ß£ýÿÿÿÿ
+W
+java:S1854O"<Remove this useless assignment to local variable "finished".(ƒ–þ’ùÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÕØ‰—ùÿÿÿÿ
+M
+java:S6126"2Replace this String concatenation with Text block.(ÕØ‰—ùÿÿÿÿ
+a	java:S128B"LEnd this switch case with an unconditional break, return or throw statement.(õ³ë
+Y
+java:S6208!"CMerge the previous cases into this one using comma-separated label.(ùì·ó
+^
+java:S6208%"CMerge the previous cases into this one using comma-separated label.(øœüúÿÿÿÿ
+^
+java:S6208)"CMerge the previous cases into this one using comma-separated label.(Ç ¥·úÿÿÿÿ
+^
+java:S62084"CMerge the previous cases into this one using comma-separated label.(ßå‹Ÿþÿÿÿÿ
+Y
+java:S62088"CMerge the previous cases into this one using comma-separated label.(í¹¹Œ
+^
+java:S6208<"CMerge the previous cases into this one using comma-separated label.(¶öé¿ÿÿÿÿÿ
+^
+java:S6208?"CMerge the previous cases into this one using comma-separated label.(Ýõ ìþÿÿÿÿ
+Y
+java:S6208B"CMerge the previous cases into this one using comma-separated label.(õ³ë
+Y
+java:S6208E"CMerge the previous cases into this one using comma-separated label.(©ØíÚ
+Y
+java:S6208I"CMerge the previous cases into this one using comma-separated label.(„‰ó÷
+<	java:S131""Add a default case to this switch.(­Ö¹§úÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ÈŽò–
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(Ù¶‚û
+V	java:S125U"<This block of commented-out lines of code should be removed.(¾²–Âýÿÿÿÿ
+S
+java:S1197X"8Move the array designator from the variable to the type.(•àÝåÿÿÿÿÿ
+V
+java:S1117_";Rename "boothNum" which hides the field declared at line 5.(µŠáâýÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(ú““•ùÿÿÿÿ
+M	java:S106e"9Replace this use of System.out or System.err by a logger.(üÕÛy
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(ðÛáøøÿÿÿÿ
+h	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ©ÑÝúÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(Ø´éÿÿÿÿÿ
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(¤ßÔ¦
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(Â¹Ö¡ûÿÿÿÿ
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(®‡ƒ±
+i	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ð†¸úÿÿÿÿ
+O	java:S106Ž"9Replace this use of System.out or System.err by a logger.(¤ßÔ¦
+d	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ƒÉˆ
+i
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¦ƒÉˆ
+W
+java:S1854œ";Remove this useless assignment to local variable "Surname".(×¿÷Ñþÿÿÿÿ
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(ôø‘‘
+N	java:S106›"9Replace this use of System.out or System.err by a logger.(ÿ×­
+O	java:S106"9Replace this use of System.out or System.err by a logger.(¨º˜á
+I
+java:S6126"2Replace this String concatenation with Text block.(¨º˜á
+T	java:S106«"9Replace this use of System.out or System.err by a logger.(ñÂô’úÿÿÿÿ
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(ñÂô’úÿÿÿÿ
+T	java:S106Â"9Replace this use of System.out or System.err by a logger.(ñÂô’úÿÿÿÿ
+T	java:S106Æ"9Replace this use of System.out or System.err by a logger.(íÄÕõúÿÿÿÿ
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(’ë·üÿÿÿÿ
+i	java:S100Ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÙûóýÿÿÿÿ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(­‚Äßþÿÿÿÿ
+T	java:S106Û"9Replace this use of System.out or System.err by a logger.(¼¿Ïûùÿÿÿÿ
+d	java:S100ß"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄöñÒ
+W	java:S125ã"<This block of commented-out lines of code should be removed.(·ÇÐ…ÿÿÿÿÿ
+i	java:S100è"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¸Ùùÿÿÿÿ
+O	java:S106é"9Replace this use of System.out or System.err by a logger.(Ð½µÛ
+T	java:S106ë"9Replace this use of System.out or System.err by a logger.(à¬²œûÿÿÿÿ
+d	java:S100ð"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒŸÎ´
+O	java:S106ó"9Replace this use of System.out or System.err by a logger.(Á”ö¥
+O	java:S106ö"9Replace this use of System.out or System.err by a logger.(¯²¥ù
+T	java:S106ù"9Replace this use of System.out or System.err by a logger.(ð’ßµøÿÿÿÿ
+?
+java:S1481")Remove this unused "name" local variable.(Ê§…ñ
+H
+java:S1481œ",Remove this unused "Surname" local variable.(×¿÷Ñþÿÿÿÿ
+C
+java:S1068"(Remove this unused "name" private field.(–™¬õùÿÿÿÿ
+J
+java:S1144X"/Remove this unused private "initialise" method.(•àÝåÿÿÿÿÿ
+d
+java:S1192|"NDefine a constant instead of duplicating this literal "Booth number " 3 times.(¤ßÔ¦
+p
+java:S1192«"TDefine a constant instead of duplicating this literal "Try another vaccine" 3 times.(ñÂô’úÿÿÿÿ
+I
+java:S1121O".Extract the assignment out of this expression.(ƒ–þ’ùÿÿÿÿ
+l	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¿÷Ñþÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·¸Â‰ûÿÿÿÿ
+0
+java:S1220""Move this file to a named package.

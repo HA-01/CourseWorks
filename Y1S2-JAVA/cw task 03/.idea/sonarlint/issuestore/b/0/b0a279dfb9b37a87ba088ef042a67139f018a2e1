@@ -1,0 +1,99 @@
+
+n
+java:S3008"XRename this field "AddedVaccines" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÄ§ó
+Ÿ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÄöñÒ8ôÏäÉ²/
+Ÿ
+java:S1186Ë"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ä×Ïó8ôÏäÉ²/
+Ÿ
+java:S1186Ğ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æ¯åµ8ôÏäÉ²/
+¤
+java:S1186Õ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÔ«÷şÿÿÿÿ8õÏäÉ²/
+S
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ÕØ‰—ùÿÿÿÿ
+M
+java:S6126#"2Replace this String concatenation with Text block.(ÕØ‰—ùÿÿÿÿ
+a	java:S128Q"LEnd this switch case with an unconditional break, return or throw statement.(õ³ë
+Y
+java:S6208."CMerge the previous cases into this one using comma-separated label.(ùì·ó
+^
+java:S62082"CMerge the previous cases into this one using comma-separated label.(øœüúÿÿÿÿ
+^
+java:S62086"CMerge the previous cases into this one using comma-separated label.(Ç ¥·úÿÿÿÿ
+^
+java:S6208A"CMerge the previous cases into this one using comma-separated label.(ßå‹Ÿşÿÿÿÿ
+Y
+java:S6208E"CMerge the previous cases into this one using comma-separated label.(í¹¹Œ
+^
+java:S6208I"CMerge the previous cases into this one using comma-separated label.(¶öé¿ÿÿÿÿÿ
+^
+java:S6208M"CMerge the previous cases into this one using comma-separated label.(İõ ìşÿÿÿÿ
+Y
+java:S6208Q"CMerge the previous cases into this one using comma-separated label.(õ³ë
+Y
+java:S6208T"CMerge the previous cases into this one using comma-separated label.(©ØíÚ
+Y
+java:S6208X"CMerge the previous cases into this one using comma-separated label.(„‰ó÷
+<	java:S131,""Add a default case to this switch.(­Ö¹§úÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(Èò–
+Q	java:S125O"<This block of commented-out lines of code should be removed.(‘ñáÊ
+N	java:S106Z"9Replace this use of System.out or System.err by a logger.(Ù¶‚û
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(ú““•ùÿÿÿÿ
+N	java:S106€"9Replace this use of System.out or System.err by a logger.(üÕÛy
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(ğÛáøøÿÿÿÿ
+i	java:S100Œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ©Ñİúÿÿÿÿ
+O	java:S106”"9Replace this use of System.out or System.err by a logger.(¤ßÔ¦
+T	java:S106˜"9Replace this use of System.out or System.err by a logger.(ÈÔŞ¤ûÿÿÿÿ
+O	java:S106"9Replace this use of System.out or System.err by a logger.(®‡ƒ±
+i	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ†¸úÿÿÿÿ
+O	java:S106ª"9Replace this use of System.out or System.err by a logger.(¤ßÔ¦
+i	java:S100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù©•ûÿÿÿÿ
+n
+java:S3776²"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ù©•ûÿÿÿÿ
+O	java:S106µ"9Replace this use of System.out or System.err by a logger.(ôø‘‘
+N	java:S106¸"9Replace this use of System.out or System.err by a logger.(ÿ×­
+O	java:S106»"9Replace this use of System.out or System.err by a logger.(Å¤ò˜
+T	java:S106¾"9Replace this use of System.out or System.err by a logger.(ÖãŠÒúÿÿÿÿ
+T	java:S106Á"9Replace this use of System.out or System.err by a logger.(ÿ…Ü¨úÿÿÿÿ
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(¨º˜á
+I
+java:S6126Å"2Replace this String concatenation with Text block.(¨º˜á
+O	java:S106Ç"9Replace this use of System.out or System.err by a logger.(şØ“á
+T	java:S106Ó"9Replace this use of System.out or System.err by a logger.(ñÂô’úÿÿÿÿ
+[	java:S106İ"9Replace this use of System.out or System.err by a logger.(ñÂô’úÿÿÿÿ8‹ĞäÉ²/
+[	java:S106ç"9Replace this use of System.out or System.err by a logger.(ñÂô’úÿÿÿÿ8ŒĞäÉ²/
+[	java:S106ë"9Replace this use of System.out or System.err by a logger.(íÄÕõúÿÿÿÿ8ŒĞäÉ²/
+[	java:S106ï"9Replace this use of System.out or System.err by a logger.(’ë·üÿÿÿÿ8ĞäÉ²/
+p	java:S100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÙûóıÿÿÿÿ8ĞäÉ²/
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(­‚Äßşÿÿÿÿ8ĞäÉ²/
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(Ëşš‚8ĞäÉ²/
+k	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄöñÒ8ĞäÉ²/
+k	java:S100“"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ÌÂ×8ĞäÉ²/
+V	java:S106œ"9Replace this use of System.out or System.err by a logger.(äìÎÆ8’ĞäÉ²/
+p	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßƒ¼Ëüÿÿÿÿ8“ĞäÉ²/
+[	java:S106©"9Replace this use of System.out or System.err by a logger.(­‡¦’ÿÿÿÿÿ8–ĞäÉ²/
+V	java:S106­"9Replace this use of System.out or System.err by a logger.(¨ª„ü8—ĞäÉ²/
+p	java:S100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¸Ùùÿÿÿÿ8—ĞäÉ²/
+V	java:S106µ"9Replace this use of System.out or System.err by a logger.(Ğ½µÛ8˜ĞäÉ²/
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(à¬²œûÿÿÿÿ8˜ĞäÉ²/
+k	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒŸÎ´8˜ĞäÉ²/
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(Á”ö¥8™ĞäÉ²/
+V	java:S106Ã"9Replace this use of System.out or System.err by a logger.(¯²¥ù8™ĞäÉ²/
+[	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ğ’ßµøÿÿÿÿ8šĞäÉ²/
+C
+java:S1068"-Remove this unused "firstName" private field.(Ã‰¿Ì
+F
+java:S1068"+Remove this unused "surName" private field.(¡­÷˜øÿÿÿÿ
+J
+java:S1068"/Remove this unused "vaccineType" private field.(„à§¿øÿÿÿÿ
+e
+java:S1192”"NDefine a constant instead of duplicating this literal "Booth number " 3 times.(¤ßÔ¦
+p
+java:S1192Ó"TDefine a constant instead of duplicating this literal "Try another vaccine" 3 times.(ñÂô’úÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+j
+java:S2095—"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ë·è¹8¾ÑäÉ²/
+r
+java:S2095–"OUse try-with-resources or close this "VaccinationCenter" in a "finally" clause.(×”Ïúşÿÿÿÿ8±©àÉ²/
