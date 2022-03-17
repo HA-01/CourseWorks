@@ -1,3 +1,3 @@
 # CourseWorks
 
-Semesterwise projects done
+Semester wise projects done
